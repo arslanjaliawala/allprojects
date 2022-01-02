@@ -1,0 +1,3 @@
+﻿  LMS.cpp
+D:\Coding\Projects\LMS\LMS\LMS.cpp(205): warning C4715: 'Booklist::swapbooklist': not all control paths return a value
+  LMS.vcxproj -> D:\Coding\Projects\LMS\Debug\LMS.exe
