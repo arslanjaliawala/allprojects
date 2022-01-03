@@ -1,0 +1,55 @@
+My: name 0 cat 1 car 2 bat 3 dad 4 degree 5
+name: is 0 was 1 means 2
+is: Arslan 0 parked 1 flying 2 the 3 so 4 such 5
+I: study 0 love 1 like 2 use 3 quit 4
+study: in 0 O-levels 1 A-levels 2
+in: GIKI 0 Hyderabad 1 Pakistan 2 my 3
+am: six 0
+six: years 0 cars 1 days 2
+years: old 0
+love: pizza 0 burger 1 biryani 2
+like: blue 0 cars 1 coding 2
+blue: color 0 sky 1 car 2 beta 3 airplane 4
+dad: was 0 is 1
+the: best 0 worst 1 mediocre 2
+best: carpenter 0 cars 1
+carpenter: in 0
+He: is 0
+so: great 0
+great: at 0
+use: the 0
+cars: in  0
+in : the 0
+worst: dad 0
+You: know 0
+know: how 0
+how: strange 0
+strange: it 0
+it: is 0
+How: strangely 0
+flying: a 0
+a: jet 0 shame 1 c 2
+jet: these 0
+these: days 0
+degree: has 0
+has: been 0
+been: delayed 0
+It: is 0
+such: a 0
+shame: that 0
+that: women 0
+women: cant 0
+cant: still 0
+still: work 0
+work: in 0
+c: a 0
+My : name  0
+name : is  0
+is : Arslan 0
+I : am  0
+am : a  0
+a : third 0
+third: year 0
+year: student. 0
+student.: I 0
+my: garage 0
