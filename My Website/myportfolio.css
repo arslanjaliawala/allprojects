@@ -1,0 +1,98 @@
+body{
+    margin: 0px;
+    display: grid;
+    grid-template-columns: lfr;
+    font-family: "Stick" ,sans-serif ;
+    
+    background-color:seagreen;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    background-color: orange;
+    
+}
+.leftside{
+    display: flex;
+    height: 22px;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 0.5s;
+}
+.rightside{
+    font-size: 1.5em;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 550;
+}
+.navbar > .leftside > div {
+    margin-right: 20px;
+    font-size: 1.2em;
+}
+.navbar a{
+    color: #8a8a8a;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.link:hover{
+    border-bottom: 1px solid black; 
+}
+.link2:hover{
+    border-bottom: 1px solid black; 
+}
+.navbar a:hover{
+    color: black;
+}
+
+.active-nav-link{
+    border-bottom:1px solid black;
+}
+.active-nav-link a {
+    color: black !important;
+}
+.postnavbar{
+    padding-top: 150px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.allanimations{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.animation{
+    position: relative;
+}
+.thisanimation-bg{
+    height: 350px;
+    width: 100%;
+    background-size: cover;
+    background-position: center ;
+    background-repeat: no-repeat ;
+}
+.tohoveranimation {
+    position:absolute;
+    top:0;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    height:100%;
+    text-align:center;
+    padding-left: 100px;
+    padding-right: 100px;
+   
+}
+.tohoveranimation .title {
+    transition: 1s;
+    color: transparent;
+    font-weight: 600;
+}
+.tohoveranimation:hover .title{
+    font-weight: 600;
+    color: lightseagreen 
+}
+.img-darken{
+    transition: 1s;
+    filter: brightness(10%);
+}

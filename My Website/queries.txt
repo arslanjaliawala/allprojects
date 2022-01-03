@@ -1,0 +1,21 @@
+Query List
+- .link2{
+    margin-right: auto;}
+Why this doesnt align the two links but the navbar > leftside..... does....??
+
+
+
+
+
+
+My Projects
+1 Hangman
+2 Text Prediction
+3 Telephone Directory
+        
+contentwrapper
+portfolioitemswrapper
+portfolioitemwrapper
+portfolioimgbackground
+imgtextwrapper//
+subtitle

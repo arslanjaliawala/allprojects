@@ -1,0 +1,79 @@
+body{
+    margin: 0px;
+    font-family: "Stick" ,sans-serif ;
+    background-color: seagreen;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    background-color: orange;
+}
+.leftside{
+    display: flex;
+    height: 22px;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 0.5s;
+}
+.rightside{
+    font-size: 1.5em;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 550;
+}
+.navbar > .leftside > div {
+    margin-right: 20px;
+    font-size: 1.2em;
+}
+.navbar a{
+    color: #8a8a8a;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.link:hover{
+    border-bottom: 1px solid black; 
+}
+.link2:hover{
+    border-bottom: 1px solid black; 
+}
+
+.navbar a:hover{
+    color: black;
+}
+
+.active-nav-link{
+    border-bottom:1px solid black;
+}
+.active-nav-link a {
+    color: black !important;
+}
+.two-col{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.img img{
+    width: 100%;
+    height: 70%;
+}
+.profile-content{
+    padding: 30px;
+}
+.profile-content h1{
+    color: thistle;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  background: white;
+  margin-right:  3em;
+
+}
+.fa:hover {
+    opacity: 0.7;
+}
